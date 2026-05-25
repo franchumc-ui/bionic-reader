@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bionicread.app",
+      "sha256_cert_fingerprints": [
+        "89:BE:0F:C7:B2:D1:0F:6D:9B:5C:4E:DD:1B:61:70:81:02:17:6A:26:D7:42:5C:EC:9C:B3:E7:7A:CD:49:C7:1E"
+      ]
+    }
+  }
+]
